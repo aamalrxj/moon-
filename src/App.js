@@ -87,7 +87,7 @@ function App() {
     setError("");
     setMoonData(null);
 
-    const API_KEY = "bac6472e2c1e4c0780734a196f5340da";
+    const API_KEY = "";
     const url = `https://api.ipgeolocation.io/astronomy?apiKey=${API_KEY}&location=${encodeURIComponent(location)}`;
 
     try {
