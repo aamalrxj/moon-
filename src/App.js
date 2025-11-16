@@ -207,7 +207,7 @@ function App() {
               marginRight: 'auto',
             }}
           >
-            "The moon is beautiful, isn't it ?" - 1 18 25 1
+            "The moon is beautiful, isn't it ?" - 
           </p>
         </>
       )}
